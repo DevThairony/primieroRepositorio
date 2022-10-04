@@ -10,3 +10,5 @@ test th1 revisado
 ********** mudança 3 no arquivo **********
 
 ********** mudança 4 no arquivo **********
+
+Realizando essa alteração para que continuidade da aula 30 baixando a última versão
