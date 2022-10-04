@@ -8,3 +8,5 @@ test th1
 test th1 revisado
 ******** mudança 2 no arquivo ***********
 ********** mudança 3 no arquivo **********
+
+********** mudança 4 no arquivo **********
