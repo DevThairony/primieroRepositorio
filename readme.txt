@@ -12,3 +12,6 @@ test th1 revisado
 ********** mudança 4 no arquivo **********
 
 Realizando essa alteração para que continuidade da aula 30 baixando a última versão
+
+
+08/10 -> mais uma modificação no docurmento para testar o git
